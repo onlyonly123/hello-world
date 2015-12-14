@@ -1,2 +1,2 @@
 連猴子都懂得GIT指令
-hello only
+hello only tutorial
